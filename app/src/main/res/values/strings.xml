@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_game">Jugar</string>
+    <string name="title_about">Acerca de</string>
+
+    <string name="app_description">Este es una App de ejemplo para revisar el tema de navegación</string>
+    <string name="app_author">
+        Isidro Santiago Santiago\n
+        isidro.santiago.2000@gmail.com
+    </string>
+
+    <string name="dice_roll">Tirar dado</string>
+</resources>
